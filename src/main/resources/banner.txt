@@ -1,0 +1,6 @@
+
+    +-+ +-+ +-+ +-+ +-+ +-+
+    |B| |A| |Y| |Z| |A| |T|
+    +-+ +-+ +-+ +-+ +-+ +-+
+
+${Ansi.RED}  :: COMBINATION GENERATOR :: ${Ansi.DEFAULT}
